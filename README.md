@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Hanya seorang manusia biasa</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif
-">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrdn28&label=Profile%20views&color=0e75b6&style=flat" alt="wrdn28" /> </p>
 
