@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Wrdni</h1>
+<h1 align="center">Hi 👋, I'm Hiro</h1>
 <h3 align="center">Newbie enjoyers | from indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/images/05c23cc548b8aed12b2ba8b8bf273be6/tenor.gif?itemid=27705874">
 
