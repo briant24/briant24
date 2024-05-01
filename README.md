@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wrdni28</h1>
-<h3 align="center">Junior Android Dev | from indonesia</h3>
+<h3 align="center">Junior Dev | from indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/images/05c23cc548b8aed12b2ba8b8bf273be6/tenor.gif?itemid=27705874">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrdn28&label=Profile%20views&color=0e75b6&style=flat" alt="wrdn28" /> </p>
