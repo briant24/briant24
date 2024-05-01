@@ -20,7 +20,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 # 📱 Devices
-![Xiaomi Redmi Note 8](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2010%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Redmi Note 8](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%208%20-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/hirokixd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="hirokixd" /></a></p>
