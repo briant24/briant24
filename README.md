@@ -11,8 +11,8 @@
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
 
 # 📱 Devices
 ![Xiaomi Redmi Note 8](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%208%20-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
