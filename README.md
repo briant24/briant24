@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wrdni28</h1>
 <h3 align="center">Junior Dev | from indonesia</h3>
-<img align="right" alt="Coding" width="295" src="https://media1.tenor.com/images/05c23cc548b8aed12b2ba8b8bf273be6/tenor.gif?itemid=27705874">
+<img align="right" alt="Coding" width="290" src="https://media1.tenor.com/images/05c23cc548b8aed12b2ba8b8bf273be6/tenor.gif?itemid=27705874">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrdn28&label=Profile%20views&color=0e75b6&style=flat" alt="wrdn28" /> </p>
 
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" margin="5" width="290" src="https://github-readme-stats.vercel.app/api?username=wrdn28&show_icons=true&locale=en" alt="wrdn28" /></p>
+<p>&nbsp;<img align="center" margin="10" width="290" src="https://github-readme-stats.vercel.app/api?username=wrdn28&show_icons=true&locale=en" alt="wrdn28" /></p>
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
