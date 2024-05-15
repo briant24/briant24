@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" align="480" src="https://github-readme-stats.vercel.app/api?username=wrdn28&show_icons=true&locale=en" alt="wrdn28" /></p>
+<p>&nbsp;<img align="center" align="450" src="https://github-readme-stats.vercel.app/api?username=wrdn28&show_icons=true&locale=en" alt="wrdn28" /></p>
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
