@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Briant Audiera</h1>
-<h3 align="center">I do anything i like | from indonesia</h3>
+<h3 align="center">Beginner who always learns.</h3>
 <img align="right" alt="Coding" width="290" src="https://media1.tenor.com/m/AclnsipomjYAAAAd/detective-conan-case-closed.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michionle&label=Profile%20views&color=0e75b6&style=flat" alt="michionle" /> </p>
